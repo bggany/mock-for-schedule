@@ -1,0 +1,31 @@
+{
+  "lessons": [
+    {"id": "0", "name": "第二外语（日语）", "room": "研713", "day": 2, "class": 1, "length": 2, "teacher": "西西木", "start": 1, "end": 16},
+    {"id": "1", "name": "计算科学与数值方法", "room": "研701阶", "day": 3, "class": 1, "length": 2, "teacher": "算数数", "start": 1, "end": 16},
+    {"id": "2", "name": "计算科学与数值方法", "room": "研1213", "day": 5, "class": 3, "length": 2, "teacher": "算数数", "start": 8, "end": 15},
+    {"id": "3", "name": "毛泽东思想和中国科学社会主义理论体系概论", "room": "研201阶", "day": 2, "class": 3, "length": 2, "teacher": "张冰冰", "start": 1, "end": 16},
+    {"id": "4", "name": "毛泽东思想和中国科学社会主义理论体系概论", "room": "研1101阶", "day": 4, "class": 5, "length": 2, "teacher": "张冰冰", "start": 1, "end": 16},
+    {"id": "5", "name": "操作系统", "room": "研1101阶", "day": 3, "class": 3, "length": 2, "teacher": "陈思思", "start": 1, "end": 16},
+    {"id": "6", "name": "操作系统", "room": "研1213", "day": 4, "class": 3, "length": 2, "teacher": "陈思思", "start": 14, "end": 16, "oddOrDual": false},
+    {"id": "7", "name": "操作系统", "room": "研1213", "day": 5, "class": 5, "length": 2, "teacher": "陈思思", "start": 5, "end": 15, "oddOrDual": true},
+    {"id": "8", "name": "操作系统", "room": "研201阶", "day": 5, "class": 5, "length": 2, "teacher": "陈思思", "start": 2, "end": 16, "oddOrDual": false},
+    {"id": "9", "name": "Java语言程序设计", "room": "研713", "day": 4, "class": 3, "length": 2, "teacher": "从岗岗", "start": 1, "end": 15, "oddOrDual": true},
+    {"id": "10", "name": "Java语言程序设计", "room": "研1213", "day": 5, "class": 3, "length": 2, "teacher": "从岗岗", "start": 2, "end": 7},
+    {"id": "11", "name": "Java语言程序设计", "room": "研1213", "day": 5, "class": 3, "length": 2, "teacher": "从岗岗", "start": 16, "end": 16},
+    {"id": "12", "name": "Java语言程序设计", "room": "研1213", "day": 1, "class": 5, "length": 2, "teacher": "从岗岗", "start": 16, "end": 16},
+    {"id": "13", "name": "Java语言程序设计", "room": "研601阶", "day": 2, "class": 5, "length": 2, "teacher": "从岗岗", "start": 1, "end": 16},
+    {"id": "14", "name": "Java语言程序设计", "room": "研1213", "day": 1, "class": 9, "length": 2, "teacher": "从岗岗", "start": 8, "end": 15},
+    {"id": "15", "name": "计算机网络", "room": "研1213", "day": 1, "class": 5, "length": 2, "teacher": "高成成", "start": 8, "end": 15},
+    {"id": "16", "name": "计算机网络", "room": "研601阶", "day": 1, "class": 7, "length": 2, "teacher": "高成成", "start": 1, "end": 16},
+    {"id": "17", "name": "计算机网络", "room": "研701阶", "day": 2, "class": 7, "length": 2, "teacher": "高成成", "start": 2, "end": 16, "oddOrDual": false},
+    {"id": "18", "name": "计算机组成原理", "room": "研1101阶", "day": 2, "class": 7, "length": 2, "teacher": "张彩彩", "start": 1, "end": 15, "oddOrDual": true},
+    {"id": "19", "name": "计算机组成原理", "room": "研201阶", "day": 5, "class": 7, "length": 2, "teacher": "张彩彩", "start": 1, "end": 16},
+    {"id": "20", "name": "计算机组成原理", "room": "东3教808", "day": 3, "class": 9, "length": 2, "teacher": "李津津", "start": 9, "end": 16},
+    {"id": "21", "name": "Internet技术与应用", "room": "研213", "day": 4, "class": 7, "length": 2, "teacher": "陈思思", "start": 1, "end": 16},
+    {"id": "22", "name": "Internet技术与应用", "room": "研1213", "day": 1, "class": 11, "length": 2, "teacher": "陈思思", "start": 8, "end": 15},
+    {"id": "23", "name": "形势与政策", "room": "研201阶", "day": 1, "class": 9, "length": 2, "teacher": "温媛媛", "start": 1, "end": 3}
+  ],
+  "setting": {
+    "week": "15"
+  }
+}
